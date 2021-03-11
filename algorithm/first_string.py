@@ -34,7 +34,6 @@ def first_string(str):
             return
 
 
-
 if __name__ == '__main__':
     first_string('fghjklffhj')
     first_string('ffff')
