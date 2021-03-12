@@ -8,18 +8,18 @@
 
 | 序号 | 题目$题解                                                    |
 | ---- | ------------------------------------------------------------ |
-| 1    | [冒泡排序](https://github.com/jieer-ma/python_practice/blob/master/algorithm/bubble_sort.py) |
-| 2    | [快速排序](https://github.com/jieer-ma/python_practice/blob/master/algorithm/quick_sort.py) |
-| 3    | [合并两个有序数组](https://github.com/jieer-ma/python_practice/blob/master/algorithm/merge_arr.py) |
-| 4    | [递归判断数组成员是否有序](https://github.com/jieer-ma/python_practice/blob/master/algorithm/digui_sort.py) |
+| 1    | [冒泡排序](https://github.com/jieer-ma/algorithm_practice/blob/master/bubble_sort.py) |
+| 2    | [快速排序](https://github.com/jieer-ma/algorithm_practice/blob/master/quick_sort.py) |
+| 3    |                                                              |
+| 4    |                                                              |
 
 ## 分类二----字符串
 | 序号 | 题目$题解                                                    |
 | ---- | ------------------------------------------------------------ |
-| 1    | [字符串逆序](https://github.com/jieer-ma/python_practice/blob/master/algorithm/reverse_string.py) |
-| 2    | [找第一个只出现一次的字符](https://github.com/jieer-ma/python_practice/blob/master/algorithm/first_string.py) |
-| 3    | [计算字符串中每个字符出现次数和出现最多的字符](https://github.com/jieer-ma/python_practice/blob/master/algorithm/max_string.py) |
-| 4    |                                                              |
+| 1    | [字符串逆序](https://github.com/jieer-ma/algorithm_practice/blob/master/reverse_string.py) |
+| 2    | [找第一个只出现一次的字符](https://github.com/jieer-ma/algorithm_practice/blob/master/first_string.py) |
+| 3    | [计算字符串中每个字符出现次数和出现最多的字符](https://github.com/jieer-ma/algorithm_practice/blob/master/max_string.py) |
+| 4    | [括号匹配](https://github.com/jieer-ma/algorithm_practice/blob/master/brackets_valid.py) |
 
 ## 分类三----链表
 | 序号 | 题目&题解  
@@ -27,6 +27,12 @@
 | 1    |
 
 ## 分类四----数组
+| 序号 | 题目&题解                                                    |
+| ---- | ------------------------------------------------------------ |
+| 1    | [合并两个有序数组](https://github.com/jieer-ma/algorithm_practice/blob/master/merge_arr.py) |
+| 2    | [递归判断数组成员是否有序](https://github.com/jieer-ma/algorithm_practice/blob/master/digui_sort.py) |
+| 3    |                                                              |
+
 | 序号 | 题目&题解  
 | ---- | ------------------------------------------------------------
 | 1    |
@@ -99,7 +105,7 @@
 
 | 序号 | 题目&题解                                                    |
 | ---- | ------------------------------------------------------------ |
-| 1    | [合并字典](https://github.com/jieer-ma/python_practice/blob/master/algorithm/merge_dict.py) |
+| 1    | [合并字典](https://github.com/jieer-ma/algorithm_practice/blob/master/merge_dict.py) |
 |      |                                                              |
 |      |                                                              |
 |      |                                                              |
