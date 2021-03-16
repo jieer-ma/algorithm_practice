@@ -15,7 +15,6 @@ def dict_merge_1(dict1, dict2):
 
 if __name__ == "__main__":
     dict1 = {'a': '1', 'b': 1}
-    dict2 = {'c': 'mmm', 'd': 1234}
-
+    dict2 = {'c': 'mmm', 'd': 1234, 'a': '2'}
 
     dict_merge_1(dict1, dict2)

@@ -7,9 +7,9 @@
 
 def arr_sort(arr, arr_len):
 
-    if(arr_len == 0):
+    if arr_len == 0:
         return 1
-    if(arr_len == 1):
+    if arr_len == 1:
         return 1
 
     return (arr[arr_len-1] >= arr[arr_len-2]) and (arr_sort(arr, arr_len-1))
