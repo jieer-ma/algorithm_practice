@@ -31,7 +31,7 @@
 | ---- | ------------------------------------------------------------ |
 | 1    | [合并两个有序数组](https://github.com/jieer-ma/algorithm_practice/blob/master/merge_arr.py) |
 | 2    | [递归判断数组成员是否有序](https://github.com/jieer-ma/algorithm_practice/blob/master/digui_sort.py) |
-| 3    |                                                              |
+| 3    | [两数之和](https://github.com/jieer-ma/algorithm_practice/blob/master/sum_two_numbers.py) |
 
 | 序号 | 题目&题解  
 | ---- | ------------------------------------------------------------
