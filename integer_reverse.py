@@ -42,6 +42,7 @@ def reverse_integer(num):
 if __name__ == '__main__':
     reverse_integer(123)
     reverse_integer(-123)
+    reverse_integer(230)
     reverse_integer(2 ** 31)
     reverse_integer(-2 ** 31)
     reverse_integer(2 ** 31 + 1)
