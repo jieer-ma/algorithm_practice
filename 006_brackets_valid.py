@@ -30,6 +30,8 @@ def is_valid(str):
     # 右括号遍历完，判断左括号是否为空，如果不为空则证明括号匹配
     if not stack:
         return True
+    else:
+        return False
 
 
 if __name__ == '__main__':
@@ -44,3 +46,6 @@ if __name__ == '__main__':
 
     r4 = is_valid('{anh[ddd]((djjjjkkk)}')
     print(r4)
+
+    r5 = is_valid('[')
+    print(r5)
