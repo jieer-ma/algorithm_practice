@@ -26,5 +26,5 @@ def two_nums_sum(arr, target):
 if __name__ == '__main__':
     two_nums_sum([2, 8, 9, 3], 11)
     two_nums_sum([2, 8, 0, 1], 11)
-    two_nums_sum([2, 8, 9, 1, 8], 11)
+    two_nums_sum([2, 8, 9, 3, 8], 11)
 

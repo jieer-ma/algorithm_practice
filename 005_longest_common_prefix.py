@@ -29,5 +29,7 @@ if __name__ == '__main__':
     print(r2)
     r3 = s.longestCommonPrefix(["abc", "abcdf", "abcddfg"])
     print(r3)
-    r4 = s.longestCommonPrefix(["", "b"])
+    r4 = s.longestCommonPrefix(["abc", "aaaa", "abcddfg"])
     print(r4)
+    r5 = s.longestCommonPrefix(["", "b"])
+    print(r5)
